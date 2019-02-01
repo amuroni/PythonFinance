@@ -14,3 +14,4 @@ client = gspread.authorize(creds)
 sheet = client.open("BaseModel").sheet1  # returns weird values from sheet CP (control panel) with checks - TRY TO UNDERSTAND HOW TO USE THIS
 values = sheet.get_all_records()
 pp.pprint(values)
+
