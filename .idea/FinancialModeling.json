@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "financial-modeling-230408",
+  "private_key_id": "49f9ff013a0ecb8fa05b7c57e5bdb75cbde865bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCHdgsQg/NBVaO9\nKAvIODpV/lf2dUhAuMvmAOdWSikdyRAfbqXrV1mgSPdCT66qIH3BJhq+Mg4g7shD\n988eVfj9Aaa8+osXaTlkg31PwrRjMnm70YGT2IT31l1e3aV/uXMJ4Wo3JVnQEPjI\nnSUH21psYXEiCo/hAn9XQkfDPiGJO1foDRBt87a2lW4et/nH+M/F4ZFDdPrxGC6U\njYA5rW3V9et22t82BNfE0UKudewzNCD1I1oV7tYuBpJQ1p1lvF+S+37eKfhlPUgf\nas1QdOjnWLDHlANBWoeKuI/s9dVgGA6wxv2Uam5jNPvYY161og/0vC2EykzZXFgB\nr05OMtrRAgMBAAECggEAAjuFTvZFwSfNEe+1H5pU1JiWnYntF2st3Rjag/1z52xD\nykJtR89bbrAh9xaC5x98j+Oo+pJ7niC67Z49Bex3zox2hLqb8tZTax8ppqT4V4KV\nwNOUNaB4/70Py+HBec62IScOzfrdG8TaPMz7A8HVn/lyvyz6YxFCxQIWibBRjPmG\nkKdIEkRw2qGDfjHG024XBe+0xho7orQDoKOCeCmtkYILe/lGXF6QJTu95P2oXbvn\na2jDlDgiGY0jMlrKUVkUcw/I9OpCJmVSbyjhDMqFIytFMPouTPgV+d3GrySdwTx0\nju2U7AM2/wgUCECPtzjJE39IfmkyR7RH2g/VzVVWmQKBgQC7YZk/ZYQMOoRk7i5F\no4/6pRze/eBUSEK3FQeYhEa30v9Cq+kj9lsRouk4vfi9WIdBt+2arbPZ9+OWfGj5\nAO24m9sSRszDBSqHPSDKjgeiiW2lELP0wl0/Wd5WyCZrU8pYVNdOzymptsa7K53N\nUvY/YCDL6g8a9hRoi0AB+xaZbQKBgQC5ERhex7RZDY3Xpsq8XXSNWoWfzmhqPF0s\nouB9iEk4CpeePb2IU83F5XJm0WFYDKUoBfczwwcrT16zO+Nx+LqZ8YBQ7ny9YqnR\n28qvGafPk9ZXDNjhW0Y/jRYa31dLpnq/G+KikMr4PK8h2w/zazokjx4rF6P4Mrzd\niMJVRIAsdQKBgQCuoR2mBKDUmLCMM6FyCyYCrGBEvYuUYKe0YmfqztPtOznjU716\nY3yp6g66b+lh5SBgsd5BOkMUDz7OH3HhJelmE/JNjSgFVEo3MVPfEhCxfKxvmips\nH7uxb7qTXALaIYPBYIgsDUtBvHJnOxXcpcWSeK73+1FKii2o5KWpcuyz3QKBgQCi\nW3wM0pjGs5xnv70GqdpxlCO8giGaaeC4IyBdIO5TSv+e5L1dV2AkKFpIF5KV42oV\nBb7MW2HzvgrvpS+xsitKmNMgrUkkAOXI5VEYcqKE+kbFUdEHS8MCR+1Hn/5+sMvo\n0zbttadLRjnCsuN4gu6cWi52UaQZP7HvjGYo1hK4bQKBgCwfTGLWw4YMjRmPXy0v\ne8MGJkZPtDZ3X8Fw/8EMX/y+VwapsmNWnMO4yNkLbuhfSHSrmvl/DlkXtu0mf4Jq\nd14KNXwcIaozsqILVLt78d04VQqcIvV4eyyhn94LCByQnMDIoFmFGyH08SMJrYqz\nDPqsjHCU2KRn6/M/mkR3ZnFK\n-----END PRIVATE KEY-----\n",
+  "client_email": "financialmodeling@financial-modeling-230408.iam.gserviceaccount.com",
+  "client_id": "105444514553070307121",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/financialmodeling%40financial-modeling-230408.iam.gserviceaccount.com"
+}
