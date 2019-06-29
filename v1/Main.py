@@ -1,5 +1,5 @@
 import gspread
-import pprint as pp#this one is needed to format correctly the data, otherwise it is not legible
+import pprint as pp  #this one is needed to format correctly the data, otherwise it is not legible
 from oauth2client.service_account import ServiceAccountCredentials
 
 # add credentials - create client to interact with GDrive and GSheets API
